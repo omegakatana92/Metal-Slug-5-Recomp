@@ -1,0 +1,12 @@
+# tests/coin_start.txt - insert a coin, start a 1P game and reach gameplay.
+# Frame numbers are 59.19 Hz video frames from power-on.  The BIOS
+# eyecatcher finishes around frame 600 and Metal Slug 5's title appears
+# before frame 1200.
+900 coin
+1000 start
+1300 a
+1400-1600 right
+1500 a
+1700 b
+1800 c
+1900 d

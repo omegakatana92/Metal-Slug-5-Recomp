@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Metal Slug 5
+Comment=Static 68000 recompilation of the SNK Neo Geo game
+Exec=MetalSlug5
+Icon=mslug5
+Terminal=false
+Categories=Game;ArcadeGame;
