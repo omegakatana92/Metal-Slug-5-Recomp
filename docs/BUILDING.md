@@ -1,5 +1,8 @@
 # Building Metal Slug 5
 
+> The public source repository omits CMake files. Use the buildable source
+> archive Metal-Slug-5-Source-v0.1.0.zip attached to the v0.1.0 release.
+
 ## Prerequisites
 
 - Git, CMake 3.21+.
@@ -59,4 +62,5 @@ The first command writes runtime-only entry points into
 
 - Windows: `powershell -ExecutionPolicy Bypass -File packaging/windows/package-windows.ps1`
 - Linux/Steam Deck: `./packaging/appimage/build-appimage.sh /path/to/roms`
+
 

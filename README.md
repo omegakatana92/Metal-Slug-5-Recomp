@@ -104,6 +104,12 @@ The previous M1 bank-mask and per-frame `audio_sync()` fixes remain in place.
 
 ## Building
 
+> **Repository policy:** this public repository is source-only and omits
+> CMake files. The buildable source archive, including the two
+> `CMakeLists.txt` files, is attached to the `v0.1.0` release as
+> `Metal-Slug-5-Source-v0.1.0.zip`. Extract that archive before using the
+> commands below.
+
 ### Windows x64
 
 ```
